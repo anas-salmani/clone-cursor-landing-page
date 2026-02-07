@@ -46,6 +46,8 @@ Follow these steps to run the project locally:
 
 
 ## 📸 Screenshot
+<img width="2866" height="15832" alt="Curso-landing-page-screenshot" src="https://github.com/user-attachments/assets/8f6d2e0f-367a-4efc-b30c-191068965136" />
+
 
 
 
